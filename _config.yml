@@ -26,7 +26,7 @@ url                      : "https://anja-sheppard.github.io"
 baseurl                  : ""
 repository               : "anja-sheppard/anja-sheppard.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.JPG"
+logo                     : # "/assets/images/88x88.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Anja Sheppard"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I'm a PhD student in Robotics at the University of Michigan where I focus on autonomy and perception for space."
   location         : "Ann Arbor, MI"
   email            : "anjashep@umich.edu"
@@ -312,14 +312,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: overview
+      type: pages
     values:
-      layout: home
+      layout: single
       author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true

@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+## About Me
+
 Anja Sheppard is a PhD Candidate at the University of Michigan, where she works under Dr. Katherine Skinner in the Field Robotics Group. Her research focus is primarly in perception for robots in extreme environments. She is particularly interested about the use of robotics for science, such as rovers searching for water on the Moon or underwater vehicles surveying for undiscovered shipwrecks. Anja is a National Science Foundation Graduate Research Fellow and a Draper Scholar. She previously collaborated with NASA's Johnson Space Center on dense 3D reconstruction for humanoid robots and with NASA's Jet Propulsion Laboratory on the Mars 2020 Science Operations team. She earned her B.S. in Computer Science from the University of Texas at Dallas in 2022.
 
 
@@ -21,6 +23,11 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 
 ## Publications
 
+Sethuraman, Advaith V., et al. "[Machine learning for shipwreck segmentation from side scan sonar imagery: Dataset and benchmark](https://journals.sagepub.com/doi/full/10.1177/02783649241266853?casa_token=Jqw9mvkNtb8AAAAA%3Ab1UfB3DkY7tgxHzT294XTW_n7lwZJwFhaPR4x67NrFcsGGbVshmS_ZDuO0C_DfEqRTzXhgNVCLz_rA)." The International Journal of Robotics Research (2024): 02783649241266853.
+
+Sheppard, Anja, et al. "[Learning Surface Terrain Classifications from Ground Penetrating Radar](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Sheppard_Learning_Surface_Terrain_Classifications_from_Ground_Penetrating_Radar_CVPRW_2024_paper.html)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
+
+Sheppard, Anja, and Katherine A. Skinner. "[Automatic Data Processing for Space Robotics Machine Learning](https://arxiv.org/abs/2310.01932)." arXiv preprint arXiv:2310.01932 (2023).
 
 
 ## Service

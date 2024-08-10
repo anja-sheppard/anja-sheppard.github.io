@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Anja Sheppard"
 description              : "I'm a PhD student in Robotics at the University of Michigan where I focus on autonomy and perception for space."
 url                      : "https://anja-sheppard.github.io"
-baseurl                  : "/home"
+baseurl                  : ""
 repository               : "anja-sheppard/anja-sheppard.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

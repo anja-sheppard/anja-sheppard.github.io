@@ -24,15 +24,15 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 
 ## Publications
 
-![ai4shipwrecks_flowchart](/assets/images/ai4shipwrecks_flowchart.png)(https://journals.sagepub.com/doi/abs/10.1177/02783649241266853){:width="55%", :target="_blank"}
+![ai4shipwrecks_flowchart](/assets/images/ai4shipwrecks_flowchart.png)(https://journals.sagepub.com/doi/abs/10.1177/02783649241266853){:width="55%"; :target="_blank"}
 
 Sethuraman, Advaith V., et al. "[Machine learning for shipwreck segmentation from side scan sonar imagery: Dataset and benchmark](https://journals.sagepub.com/doi/full/10.1177/02783649241266853)." The International Journal of Robotics Research (2024): 02783649241266853.
 
-![gpr_flowchart](/assets/images/gpr_flowchart.png)(https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Sheppard_Learning_Surface_Terrain_Classifications_from_Ground_Penetrating_Radar_CVPRW_2024_paper.html){:width="40%", :target="_blank"}
+![gpr_flowchart](/assets/images/gpr_flowchart.png)(https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Sheppard_Learning_Surface_Terrain_Classifications_from_Ground_Penetrating_Radar_CVPRW_2024_paper.html){:width="40%"; :target="_blank"}
 
 Sheppard, Anja, et al. "[Learning Surface Terrain Classifications from Ground Penetrating Radar](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Sheppard_Learning_Surface_Terrain_Classifications_from_Ground_Penetrating_Radar_CVPRW_2024_paper.html)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
 
-![colocation_flowchart](/assets/images/colocation_flowchart.png)(https://arxiv.org/abs/2310.01932){:width="55%", :target="_blank"}
+![colocation_flowchart](/assets/images/colocation_flowchart.png)(https://arxiv.org/abs/2310.01932){:width="55%"; :target="_blank"}
 
 Sheppard, Anja, and Katherine A. Skinner. "[Automatic Data Processing for Space Robotics Machine Learning](https://arxiv.org/abs/2310.01932)." arXiv preprint arXiv:2310.01932 (2023).
 

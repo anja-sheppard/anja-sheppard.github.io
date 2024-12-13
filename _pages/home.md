@@ -23,13 +23,13 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 | June 2023 | The Field Robotics Group conducts fieldwork on Lake Huron to test a [shipwreck detection network](https://www.youtube.com/watch?v=UtNK1Ite8no&t=1s). |
 
 
-<h1 class="mt-4">Publications</h1>
+<h2 class="mt-4">Publications</h2>
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
   <div class="pubteaser">
-    <a href="{{ pub.url }}">
-      <img src="/images/{{ pub.slug }}_small.png" alt="{{ pub.slug }} publication teaser"/>
+    <a href="{{ pub.link }}">
+      <img src="/images/{{ pub.slug }}_small.png" alt="{{ pub.url }} publication teaser"/>
     </a>
   </div>
   <div class="pubdetails">

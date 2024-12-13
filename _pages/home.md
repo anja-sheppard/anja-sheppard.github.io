@@ -37,13 +37,14 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
     <div class="pubauthors">{{ pub.authors }}</div>
     <div class="pubinfo">{{ pub.publication }}, {{ pub.year }}</div>
     <div class="publinks">
-      <a href="/download/{{ pub.slug }}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+      {% if pub.pdf %}
+      <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+      {% endif %}
       <a href="{{ pub.url }}"><i class="fas fa-arrow-right"></i> Project Page</a>
     </div>
   </div>
 </div>
 {% endfor %}
-
 
 ## Service
 

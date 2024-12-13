@@ -561,18 +561,29 @@ body {
 }
 
 .pubitem {
+  display: flex; /* Use flexbox for layout */
   margin: 2em 0;
-  line-height: 1em;
+  align-items: flex-start; /* Align items at the top */
+}
+
+.pubteaser {
+  margin-right: 1em; /* Add some spacing between the image and text */
+}
+
+.pubteaser img {
+  max-width: 150px; /* Set a reasonable max width for the image */
+  height: auto; /* Keep the aspect ratio */
 }
 
 .pubtitle {
-  margin-bottom: 0.5em;
-  line-height: 1.2em;
   font-weight: bold;
+  margin-bottom: 0.5em;
 }
 
 .pubauthors,
-.pubinfo {
-  font-size: 75%;
-  margin-bottom: 0.75em;
+.pubinfo,
+.publinks {
+  font-size: 90%; /* Slightly smaller font for details */
+  margin-bottom: 0.5em;
 }
+

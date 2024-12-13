@@ -24,6 +24,16 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 
 ## Publications
 
+<h1 class="mt-4">Publications</h1>
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+  <div class="pubtitle">{{ pub.title }}</div>
+  <div class="pubauthors">{{ pub.authors }}</div>
+  <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+</div>
+{% endfor %}
+
 ![ai4shipwrecks_flowchart](/assets/images/ai4shipwrecks_flowchart.png){: width="50%"}
 
 Sethuraman, Advaith V., et al. "[Machine learning for shipwreck segmentation from side scan sonar imagery: Dataset and benchmark](https://journals.sagepub.com/doi/full/10.1177/02783649241266853)." The International Journal of Robotics Research (2024): 02783649241266853.

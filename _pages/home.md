@@ -25,7 +25,7 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 <div class="pubteaser">
   <a href="{{pub.url}}">
     <img
-      src="/images/{{ pub.slug }}_small.jpg"
+      src="/images/{{ pub.slug }}_small.png"
       alt="{{pub.slug}} publication teaser"
     />
   </a>

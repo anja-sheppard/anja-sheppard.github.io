@@ -28,8 +28,8 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 {% for pub in publications %}
 <div class="pubitem">
   <div class="pubteaser">
-    <a href="{{ pub.link }}">
-      <img src="/images/{{ pub.slug }}_small.png" alt="{{ pub.url }} publication teaser"/>
+    <a href="{{ pub.url }}">
+      <img src="/images/{{ pub.slug }}_small.png" alt="{{ pub.slug }} publication teaser"/>
     </a>
   </div>
   <div class="pubdetails">
@@ -40,11 +40,14 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
       {% if pub.pdf %}
       <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
       {% endif %}
+      {% if pub.url %}
       <a href="{{ pub.url }}"><i class="fas fa-arrow-right"></i> Project Page</a>
+      {% endif %}
     </div>
   </div>
 </div>
 {% endfor %}
+
 
 ## Service
 

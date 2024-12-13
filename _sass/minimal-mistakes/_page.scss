@@ -562,17 +562,22 @@ body {
 
 .pubitem {
   display: flex; /* Use flexbox for layout */
-  margin: 2em 0;
-  align-items: flex-start; /* Align items at the top */
+  margin: 2em 0; /* Add space between publications */
+  align-items: flex-start; /* Align content at the top */
 }
 
 .pubteaser {
-  margin-right: 1em; /* Add some spacing between the image and text */
+  margin-right: 1em; /* Add space between image and text */
 }
 
 .pubteaser img {
   max-width: 150px; /* Set a reasonable max width for the image */
-  height: auto; /* Keep the aspect ratio */
+  height: auto; /* Keep the image's aspect ratio */
+}
+
+.pubdetails {
+  display: flex;
+  flex-direction: column; /* Stack text elements vertically */
 }
 
 .pubtitle {

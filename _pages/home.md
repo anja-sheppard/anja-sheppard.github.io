@@ -14,6 +14,9 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 ## News
 
 | --- | --- |
+| September 2025 | With other members of the Field Robotics Group, Anja leads a tutorial on [ShipwreckFinder](https://sites.google.com/umich.edu/oceans2025-tutorial/overview), a new open-source tool for shipwreck detection from bathymetric data. She also presents the full [paper](https://arxiv.org/abs/2509.21386) during the technical track.
+| June 2025 | At RSS, Anja presents at the [Space Robotics Workshop](https://albee.github.io/space-robotics-rss/) on her preliminary work with probabilistic terrain mapping for lunar hazard detection. |
+| May 2025 | Anja presents [Field Report on Ground Penetrating Radar for Localization at the Mars Desert Research Station](https://arxiv.org/pdf/2504.15455) at the ICRA Workshop on Field Robotics. |
 | September 2024 | Anja presents at the [AUV 2024 Symposium](https://auv2024.sites.northeastern.edu/) in Boston, MA on the [AI4Shipwrecks](https://umfieldrobotics.github.io/ai4shipwrecks/) dataset. |
 | June 2024  | Anja represents the Field Robotics Group at CVPR, where she presents her paper "[Learning Surface Terrain Classifications from Ground Penetrating Radar](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Sheppard_Learning_Surface_Terrain_Classifications_from_Ground_Penetrating_Radar_CVPRW_2024_paper.html)" at the Perception Beyond the Visible Spectrum workshop. |
 | May 2024 | Anja is awarded a fellowship with the [Draper Scholars](https://www.draper.com/careers/scholar-program) program. |

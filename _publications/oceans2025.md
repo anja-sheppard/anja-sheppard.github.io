@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: ShipwreckFinder: A QGIS Tool for Shipwreck Detection in Multibeam Sonar Data

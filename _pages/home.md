@@ -8,12 +8,13 @@ classes: wide
 
 ## About Me
 
-Anja Sheppard is a PhD Candidate at the University of Michigan, where she works under Dr. Katherine Skinner in the Field Robotics Group. Her research focus is primarly in perception for robots in extreme environments. She is particularly interested about the use of robotics for science, such as rovers searching for water on the Moon or underwater vehicles surveying for undiscovered shipwrecks. Anja is a National Science Foundation Graduate Research Fellow and a Draper Scholar. She previously collaborated with NASA's Johnson Space Center on dense 3D reconstruction for humanoid robots and with NASA's Jet Propulsion Laboratory on the Mars 2020 Science Operations team. She earned her B.S. in Computer Science from the University of Texas at Dallas in 2022.
+Anja Sheppard is a PhD Candidate at the University of Michigan, where she works under Dr. Katherine Skinner in the Field Robotics Group. Her research focuses primarily on perception for robots in extreme environments. She is particularly interested about the use of robotics for science, such as rovers searching for water on the Moon or underwater vehicles surveying for undiscovered shipwrecks. Anja is a National Science Foundation Graduate Research Fellow and a Draper Scholar. She previously collaborated with NASA's Johnson Space Center on dense 3D reconstruction for humanoid robots and with NASA's Jet Propulsion Laboratory on the Mars 2020 Science Operations team. She earned her B.S. in Computer Science from the University of Texas at Dallas in 2022.
 
 
 ## News
 
 | --- | --- |
+| November 2025 | Anja represents FRoG Lab and the Michigan College of Engineering at the [State of the University Address](https://record.umich.edu/articles/look-to-michigan-comes-alive-during-state-of-the-university/), where she presents on advances in marine perception.
 | September 2025 | With other members of the Field Robotics Group, Anja leads a tutorial on [ShipwreckFinder](https://sites.google.com/umich.edu/oceans2025-tutorial/overview), a new open-source tool for shipwreck detection from bathymetric data. She also presents the full [paper](https://arxiv.org/abs/2509.21386) during the technical track.
 | June 2025 | At RSS, Anja presents at the [Space Robotics Workshop](https://albee.github.io/space-robotics-rss/) on her preliminary work with probabilistic terrain mapping for lunar hazard detection. |
 | May 2025 | Anja presents [Field Report on Ground Penetrating Radar for Localization at the Mars Desert Research Station](https://arxiv.org/pdf/2504.15455) at the ICRA Workshop on Field Robotics. |
@@ -55,5 +56,7 @@ Anja Sheppard is a PhD Candidate at the University of Michigan, where she works 
 ## Service
 
 - Space Generation Advisory Council [Space Policy Task Force](https://spacegeneration.org/ncac-task-force)
-- University of Michigan [Robotics Graduate Student Council President](https://robotics.umich.edu/academics/current-students/robotics-graduate-student-council/)
+- University of Michigan [Robotics Graduate Student Council](https://robotics.umich.edu/academics/current-students/robotics-graduate-student-council/)
 - International Astronautical Congress [Workforce Development/Young Professionals Programme Administrative Committee](https://www.iafastro.org/about/iaf-committees/administrative-committees/workforce-development-young-professionals-programme-committee-wd-ypp.html)
+
+![image](../assets/images/anja_and_onur.jpg)

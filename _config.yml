@@ -21,7 +21,7 @@ title                    : "Anja Sheppard"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anja Sheppard"
-description              : "I'm a PhD student in Robotics at the University of Michigan where I focus on autonomy and perception for space."
+description              : "I'm a PhD student in Robotics at the University of Michigan where I focus on autonomy and perception in space and underwater."
 url                      : "https://anja-sheppard.github.io"
 baseurl                  : ""
 repository               : "anja-sheppard/anja-sheppard.github.io"
